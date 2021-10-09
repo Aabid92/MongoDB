@@ -1,0 +1,9 @@
+([
+    {
+        name: "Savta", location: {type: "Point", coordinates: [72.7693497, 19.9717014]}
+    },
+
+    {
+        name: "Star Gym", location: {type: "Point", coordinates: [72.7331015, 19.9879395]}
+    }
+])
